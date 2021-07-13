@@ -1,0 +1,26 @@
+/* @media only screen and (min-width: 768px) and (max-width: 991px) {
+  .carousel-inner {
+    height: 400px;
+} */
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(98, 102, 98),
+    rgb(58, 51, 51)
+  );
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
+.carousel-item,
+.carousel-item img {
+  height: 670px;
+  width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.container {
+  color: white;
+  width: 100px;
+  margin-top: 10px;
+  background-repeat: no-repeat;
+}

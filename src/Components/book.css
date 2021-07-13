@@ -1,0 +1,11 @@
+.mybg {
+  background-image: url(https://www.biospace.com/getasset/ff893178-9ffa-4b80-943e-1d8eb6e3a783/);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+}
+.image {
+  width: 10px;
+  height: 20px;
+}
